@@ -9,12 +9,12 @@ git clone https://github.com/rizvyahmed76/Rule_Based_Chatbot.git
 cd Rule_Based_Chatbot
 ```
 
-2. Install dependencies:
+2. Install dependencies: install packege / node-modules
 
 ```bash
 sudo apt install npm
-npm init -y   // install packege
-npm install express body-parser    // install node-modules
+npm init -y
+npm install express body-parser
 ```
 
 3. Run the Project :
