@@ -38,3 +38,9 @@ You will see the chatbot in action instantly!
 - Type: bye -> it ends
 - Type something random -> it shows the default reply
 ```
+
+6. Project Live Demo:
+
+```bash
+https://rizvyportfolio.netlify.app/#projects
+```
