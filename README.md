@@ -6,7 +6,7 @@
 
 ```bash
 git clone https://github.com/rizvyahmed76/Rule_Based_Chatbot.git
-cd Rule_Based_Chatbot
+cd Rule_Based_Chatbot-main
 ```
 
 2. Install dependencies: install packege / node-modules
