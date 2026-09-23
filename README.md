@@ -5,17 +5,36 @@
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/rizvyahmed76/Fraud_Detection_Using_Machine_Learning.git
+git clone https://github.com/rizvyahmed76/Rule_Based_Chatbot.git
+cd Rule_Based_Chatbot
 ```
 
 2. Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+sudo apt install npm
+npm init -y   // install packege
+npm install express body-parser    // install node-modules
 ```
 
-3. Open the notebook:
+3. Run the Project :
 
 ```bash
-jupyter notebook notebook.ipynb
+node index.js
+```
+4. Open the browser:
+
+```bash
+open your browser = localhost:3000/demo
+You will see the chatbot in action instantly!
+```
+
+5. how to use this Project :
+
+```bash
+- Open the browser demo
+- Type: hello → you get the greeting
+- Type: how are you → you get the response
+- Type: bye → it ends
+- Type something random → it shows the default reply
 ```
