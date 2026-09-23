@@ -9,12 +9,12 @@ git clone https://github.com/rizvyahmed76/Rule_Based_Chatbot.git
 cd Rule_Based_Chatbot-main
 ```
 
-2. Install dependencies: install packege / node-modules
+2. Install packege / node-modules
 
 ```bash
 sudo apt install npm
-npm init -y
-npm install express body-parser
+sudo npm init -y
+sudo npm install express body-parser
 ```
 
 3. Run the Project :
@@ -33,8 +33,8 @@ You will see the chatbot in action instantly!
 
 ```bash
 - Open the browser demo
-- Type: hello → you get the greeting
-- Type: how are you → you get the response
-- Type: bye → it ends
-- Type something random → it shows the default reply
+- Type: hello -> you get the greeting
+- Type: how are you -> you get the response
+- Type: bye -> it ends
+- Type something random -> it shows the default reply
 ```
